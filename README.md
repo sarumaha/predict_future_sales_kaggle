@@ -12,7 +12,7 @@ Forecast the total amount of products sold in every shop
 The script should run with Python 3 and some popular libraries. 
 [lightgbm](https://lightgbm.readthedocs.io/en/latest/Python-Intro.html), [matplotlib](https://matplotlib.org/) , [pandas](https://pandas.pydata.org/)
 
-## Project Motivation (#motivation) <a name ="motivation"></a>
+## Project Motivation <a name ="motivation"></a>
 
 This project covers some basic application of data preprocessing and machine learning technique. Some of the problem to cover :
 
@@ -24,7 +24,7 @@ This project covers some basic application of data preprocessing and machine lea
 - Jupyter notebook with markdown cells to explain steps to achieve analysis result
 - Contains dataset of train and test
 
-## Results (#results) <a name ="results"></a>
+## Results <a name ="results"></a>
 
 The model achieves 1.04519 RMSE and ranks top 50% of the competition
 
